@@ -5,6 +5,7 @@
     repository is created off the template
 -->
 
+```mermaid
 mindmap
   root((mindmap))
     Origins
@@ -22,6 +23,7 @@ mindmap
     Tools
       Pen and paper
       Mermaid
+```
 
 # Create a release based workflow
 
